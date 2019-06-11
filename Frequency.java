@@ -1,4 +1,4 @@
-public class Frequency {  
+public class frequency {  
     public static void main(String[] args) {  
         //Initialize array  
         int [] arr = new int [] {1, 2, 8, 3, 2, 2, 2, 5, 1};  
